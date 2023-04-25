@@ -21,4 +21,8 @@ The basic steps to perform Binary Search are:<br>
 *If the target is less than the element at the middle index, set the high index to middle index – 1.<br>
 *If the target is greater than the element at the middle index, set the low index to middle index + 1.<br>
 3.Perform step 2 repeatedly until the target element is found or the search space is exhausted.<br>
+The Binary Search Algorithm can be implemented in the following two ways<br>
+
+1.Iterative Binary Search Algorithm<br>
+2.Recursive Binary Search Algorithm<br>
 
