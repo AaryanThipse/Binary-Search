@@ -25,4 +25,8 @@ The Binary Search Algorithm can be implemented in the following two ways<br>
 
 1.Iterative Binary Search Algorithm<br>
 2.Recursive Binary Search Algorithm<br>
+<b><ins>Output</b></ins><br>
+<img width="936" alt="Binary Search" src="https://user-images.githubusercontent.com/124968304/234327001-c345d9eb-18c7-45b7-8bd8-17f869f34793.png">
+
+
 
