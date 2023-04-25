@@ -11,7 +11,7 @@ To apply binary search in any data structure, the data structure must maintain t
 2.When the dataset is sorted.<br>
 3.When data is stored in contiguous memory.<br>
 4.Data does not have a complex structure or relationships.<br>
-#How to Implement Binary Search?<br>
+# How to Implement Binary Search?<br>
 The basic steps to perform Binary Search are:<br>
 
 1.Set the low index to the first element of the array and the high index to the last element.<br>
